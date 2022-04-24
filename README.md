@@ -1,5 +1,5 @@
 # GradualCPD
-This repository contains code for the proposed gradual change point detection method in Nie and Nicolae (2021).
+This repository contains code for the gradual change point detection method proposed in Nie and Nicolae (2021).
 
 To cite, please use
 
